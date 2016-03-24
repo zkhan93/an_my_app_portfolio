@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF5252</color>
+
+    <color name="btnDisabledColor">#9E9E9E</color>
+    <color name="btnTxtDisabledColor">#FFF</color>
+
+    <color name="btnColor">#EF6C00</color>
+    <color name="btnActiveColor">#E65100</color>
+
+    <color name="btnTxtColor">#FFF</color>
+    <color name="btnTxtActiveColor">#FFF</color>
+
+    <color name="btnMyappColor">#F44336</color>
+    <color name="btnMyappActiveColor">#D32F2F</color>
+</resources>
